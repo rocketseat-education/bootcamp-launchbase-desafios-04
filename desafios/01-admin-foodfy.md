@@ -49,7 +49,7 @@ A fim de testar as funcionalidades da sua área administrativa, cadastre, pela �
 
 ## Adicionar Campo Dinâmico
 
-Os campos de Ingredientes e Preparação, serão campos dinâmicos, onde você irá adicionar quantos campos forem necessários, usando JavaScript para isso. 
+Os campos de "Ingredientes" e "Modo de preparo", serão campos dinâmicos, onde você irá adicionar quantos campos forem necessários, usando JavaScript para isso. 
 
 ### Vídeo Exemplo
 
