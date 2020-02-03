@@ -51,7 +51,7 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 
 ## :calendar: Entrega
 
-Esse desafio **não precisa ser entregue** e não receberá correção. Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+Esse desafio **não precisa ser entregue** e não receberá correção. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 ## :memo: Licença
 
