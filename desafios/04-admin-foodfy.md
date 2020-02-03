@@ -6,7 +6,7 @@
   Desafio: Administração do Foodfy
 </h3>
 
-<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
+<blockquote align="center">“Quem sabe concentrar-se numa coisa e insistir nela como único objetivo, obtém a capacidade de fazer qualquer coisa.”</blockquote>
 
 <p align="center">
 

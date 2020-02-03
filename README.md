@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 4-1: Header
+  Desafios Módulo 4 - Gym Manager
 </h3>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
@@ -34,8 +34,8 @@
 - [Apresentação, edição e formatação dos dados de um professor](desafios/04-4-show-edit-format-teacher.md)
 - [HTTP: PUT e DELETE](desafios/04-5-edit-delete-teacher.md)
 - [Listagem de professores](desafios/04-6-list-teachers.md)
-- [Header](desafios/04-7-students.md)
-- [Estruturando estudantes](desafios/01-admin-foodfy.md)
+- [Estruturando estudantes](desafios/04-7-students.md)
+- [Administração do Foodfy](desafios/04-admin-foodfy.md)
 
 ## :calendar: Entrega
 
