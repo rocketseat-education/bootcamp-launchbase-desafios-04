@@ -92,12 +92,7 @@ Os campos de "Ingredientes" e "Modo de preparo", serão campos dinâmicos, onde 
 #### GIF Exemplo
 
 <p align="center">
-  <div style="
-  background-image:url('https://i.imgur.com/EOYWaJW.gif');
-  width:440px; 
-  height:180px; 
-  background-position:top;
-  " src="">&nbsp;</div>
+  <img alt="Gif Campo Dinâmico" src="https://i.imgur.com/EOYWaJW.gif"/>
 </p>
 
 #### Código de exemplo
