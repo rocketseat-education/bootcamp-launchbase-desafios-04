@@ -32,7 +32,7 @@
 - [Card do Professor](desafios/04-2-card-teacher.md)
 - [Formulário e Rota de cadastro do Professor](desafios/04-3-form-and-routes-teacher.md)
 - [Apresentação, edição e formatação dos dados de um professor](desafios/04-4-show-edit-format-teacher.md)
-- [HTTP: PUT e DELETE](desafios/04-5-edit-delete-teacher.md)
+- [HTTP: PUT e DELETE](desafios/04-5-put-delete-teacher.md)
 - [Listagem de professores](desafios/04-6-list-teachers.md)
 - [Estruturando estudantes](desafios/04-7-students.md)
 - [Administração do Foodfy](desafios/04-admin-foodfy.md)
