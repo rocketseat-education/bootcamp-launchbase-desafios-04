@@ -45,8 +45,8 @@ routes.get("/admin/recipes/:id", recipes.show); // Exibir detalhes de uma receit
 routes.get("/admin/recipes/:id/edit", recipes.edit); // Mostrar formulário de edição de receita
 
 routes.post("/admin/recipes", recipes.post); // Cadastrar nova receita
-routes.put("/admin/recipes", recipes.put); // Editar uma receita
-routes.delete("/admin/recipes", recipes.delete); // Deletar uma receita
+routes.put("/admin/recipes/:id", recipes.put); // Editar uma receita
+routes.delete("/admin/recipes/:id", recipes.delete); // Deletar uma receita
 ```
 
 Dica: Você pode criar pasta(s) para organizar os arquivos do seu projeto.
