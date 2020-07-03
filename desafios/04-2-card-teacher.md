@@ -28,15 +28,15 @@
 
 ## :rocket: Sobre o desafio
 
-Nessa etapa você de utilizar o browser-sync e criar um card para apresentação das informações do professor.
+Nessa etapa você deve utilizar o browser-sync e criar um card para apresentação das informações do professor.
 
 ### Browser-sync
 
-Utilizando as libs `browser-sync` e `npm-run-all` e rode os processos da sua aplicação e do `browser-sync` em paralelo.
+Utilize as libs `browser-sync` e `npm-run-all` e rode os processos da sua aplicação e do `browser-sync` em paralelo.
 
 ### Card
 
-Esse componente deve ser divido em duas seções: imagem e detalhes. As seguintes informações são obrigatórias:
+Esse componente deve ser dividido em duas seções: imagem e detalhes. As seguintes informações são obrigatórias:
 
 - Imagem randômica de uma coleção de professores (utilize a api do unsplash);
 - Nome completo;
