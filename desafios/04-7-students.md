@@ -32,7 +32,7 @@ Nessa etapa você deve reaproveitar para os estudantes toda a estrutura já cria
 
 ### Estrutura
 
-Reaproveite o código obecendo os seguintes padrões:
+Reaproveite o código obedecendo os seguintes padrões:
 
 - Crie um arquivo `students.js` com a mesma estrutura que o `teachers.js`. Insira ambos os arquivos dentro uma pasta `controllers`;
 - Crie um array `students` vazio dentro do arquivo `json`;
