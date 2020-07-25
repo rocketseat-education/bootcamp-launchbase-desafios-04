@@ -32,7 +32,7 @@ Nessa etapa você deve criar um formulário de cadastro do professor e uma rota 
 
 ### Formulário
 
-Os seguintes campos são necessaŕios:
+Os seguintes campos são necessários:
 
 - Avatar url: campo do tipo `url` para cadastrar o caminho da imagem do professor;
 - Nome completo: campo do tipo `text`;
